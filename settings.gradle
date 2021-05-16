@@ -1,0 +1,3 @@
+include ':StackCardLibrary'
+include ':app'
+rootProject.name = "StackCard"
